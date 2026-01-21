@@ -1,9 +1,9 @@
-# Simulating a Robotic Arm for Sequential Affordance-Based Manipulation Using Object Detection and ChatGPT  
+# Simulating a Robotic Arm for Sequential Affordance-Based Manipulation Using Object Detection and OpenAI API  
 
 This repository contains the implementation and simulation files for the paper:  
 
 **Haroon Muhammed, Dwarakesh Rajesh**  
-*Simulating a Robotic Arm for Sequential Affordance-Based Manipulation Using Object Detection and ChatGPT*  
+*Simulating a Robotic Arm for Sequential Affordance-Based Manipulation Using Object Detection and OpenAI API*  
 
 The project investigates how **Large Language Models (LLMs)**, specifically ChatGPT, can be integrated with **object detection** and **affordance reasoning** to enable robotic arms to perform **multi-step manipulation tasks** in response to natural language commands.  
 
