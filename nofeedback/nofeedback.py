@@ -138,7 +138,7 @@ def encode_image(image_path):
 
 #Call ChatGpt API
 def GPTCallCohesion(file,task_in,depthim,poses):
-    client = OpenAI(api_key="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")
+    client = OpenAI(api_key="x")
     base64_image = encode_image(file)
     response = client.chat.completions.create(
         model="gpt-4o-mini",
